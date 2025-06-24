@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ayush Sharma
 
-<!--
-**ayush-octtt/ayush-octtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀 I'm passionate about **technology, coding, and continuous learning**. Here's a little about me:
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **improving my skills in shell scripting, web development, and backend technologies.**
+- 🌱 I’m currently learning **DevOps, advanced Bash scripting, and modern JavaScript frameworks.**
+- 💬 Ask me about **Linux, Shell scripting, JavaScript, and anything tech-related!**
+- 📫 How to reach me: **ayushsharma.octtt@gmail.com** or connect on **https://www.linkedin.com/in/ayush-sharma-902415371/**
+- ⚡ Fun fact: I love solving problems and automating boring tasks! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Shell Scripting 🐚, JavaScript 🟨, Python 🐍, C 💻
+- **Tools:** Git 🗃️, VS Code 🖥️, Linux 🐧, Docker 🐳
+- **Interests:** Automation 🤖, Web Development 🌐, Cloud ☁️, Open Source 💻
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-octtt&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+</p>
+
+---
+
+⭐️ *Thank you for visiting my profile! Feel free to check out my repositories and connect with me.* 🚀
